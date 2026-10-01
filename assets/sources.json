@@ -1,0 +1,84 @@
+{
+  "observed": "2026-10-01",
+  "website": "https://www.everai.ai/",
+  "assets": [
+    {
+      "file": "assets/logo.webp",
+      "source": "https://cdn.prod.website-files.com/65aea06ffce594bdaca39b1f/6893036d20959c47d6995901_Logo-Everi.webp",
+      "bytes": 1032,
+      "sha256": "d746ea01b9cf4b2e1f1f6689d248abdaba8165b3966643a883fcd951182de942"
+    },
+    {
+      "file": "assets/favicon.png",
+      "source": "https://cdn.prod.website-files.com/65aea06ffce594bdaca39b1f/68a70de33e76782dbb8dd5f4_Fav%202.png",
+      "bytes": 1328,
+      "sha256": "698d3318db587a463bffa8df923046334fbcf52993d1739f35546dccbfd61117"
+    },
+    {
+      "file": "assets/aspekta-variable.ttf",
+      "source": "https://cdn.prod.website-files.com/65aea06ffce594bdaca39b1f/6892294a48eb0084e97330d0_AspektaVF.ttf",
+      "bytes": 67632,
+      "sha256": "cc8382697358cb0da3ae4344b8778b289f2d9ed9b153960aecb3e33f96334ccc"
+    },
+    {
+      "file": "assets/newsreader-italic.ttf",
+      "source": "https://fonts.gstatic.com/s/newsreader/v26/cY9kfjOCX1hbuyalUrK439vogqC9yFZCYg7oRZaLP4obnf7fTXglsMwoT9ZHFjE.ttf",
+      "bytes": 54312,
+      "sha256": "be5adca21524d7f37702462ef2434c412e1b2c0bdc91c7c1ca4f063f6cc27c1d"
+    },
+    {
+      "file": "assets/hero-poster.jpg",
+      "source": "https://cdn.prod.website-files.com/65aea06ffce594bdaca39b1f%2F6892fd5d383a9d270d08a85a_Abstract_objects_%28dark_theme%29-poster-00001.jpg",
+      "bytes": 42744,
+      "sha256": "85dd8e372b86a00c940424c7d7c19b898338f95d3fb843e1fe43beedf7c64482"
+    },
+    {
+      "file": "assets/feature-01.webp",
+      "source": "https://cdn.prod.website-files.com/65aea06ffce594bdaca39b1f/68930872986fb627e67a8817_Features%20Box-1.webp",
+      "bytes": 58708,
+      "sha256": "75c5a00115527d88f7cb4b94c49a63ae8b9a820e090d60b71b82105101fe74ea"
+    },
+    {
+      "file": "assets/feature-02.webp",
+      "source": "https://cdn.prod.website-files.com/65aea06ffce594bdaca39b1f/68930872b38292c7d878180b_Features%20Box-2.webp",
+      "bytes": 32846,
+      "sha256": "54ca78391f1a74ca9902da2ece2f5b8006f368e4a97d0701e4bcca7c95d81d2f"
+    },
+    {
+      "file": "assets/abstract-01.webp",
+      "source": "https://cdn.prod.website-files.com/65aea06ffce594bdaca39b1f/6893504f9ab889a4e23b386c_Service%20Box-1.webp",
+      "bytes": 9588,
+      "sha256": "313f56959986be559f4f3f91ab69566c1435075b3b83c8b5b19ae2b65745c85c"
+    },
+    {
+      "file": "assets/abstract-02.webp",
+      "source": "https://cdn.prod.website-files.com/65aea06ffce594bdaca39b1f/6893504ff09ade7e78472423_Service%20Box-2.webp",
+      "bytes": 17428,
+      "sha256": "fa03e2e6bd112f772643772de8a00a97215130ae534d8fa0c6e7aa342a3e1476"
+    },
+    {
+      "file": "assets/abstract-03.webp",
+      "source": "https://cdn.prod.website-files.com/65aea06ffce594bdaca39b1f/6893504f5777c050c0dcf95b_Service%20Box-3.webp",
+      "bytes": 8882,
+      "sha256": "83f41ed0b2b0b874c1efefc75f997a106dc29a9aa61eb7e4283954fab5543935"
+    },
+    {
+      "file": "assets/contact-background.png",
+      "source": "https://cdn.prod.website-files.com/65aea06ffce594bdaca39b1f/68947b925ec7f40fc2982a49_Wide%20Section.png",
+      "bytes": 2458359,
+      "sha256": "39cf10984884d5d91e24d1e3c222f8c2355a3e94a66216e222d75e819730d480"
+    },
+    {
+      "file": "assets/careers.webp",
+      "source": "https://cdn.prod.website-files.com/65aea06ffce594bdaca39b1f/69f9933c1d78457e7889966c_Image%20(7).webp",
+      "bytes": 429028,
+      "sha256": "9d230ee4105b7cf94781681a40a0ef319e433d07c84d011ae2ef96dc7a1b4be3"
+    },
+    {
+      "file": "assets/arrow-up-right.svg",
+      "source": "https://cdn.prod.website-files.com/65aea06ffce594bdaca39b1f/6893d4e7e80bf5f0513d8ecd_icon-interface-arrow-up-right.svg",
+      "bytes": 244,
+      "sha256": "5b997123c9e06a1c46851345a04b5e830db152e40fb8ab060528326c8cbb7893"
+    }
+  ]
+}
